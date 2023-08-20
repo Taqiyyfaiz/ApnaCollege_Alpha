@@ -1,5 +1,5 @@
 public class Assignment3 {
-    public static int butAndSellStocks(int prices[]) {
+    public static int buyAndSellStocks(int prices[]) {
         int buyPrice = Integer.MAX_VALUE;
         int maxProfit = 0;
 
